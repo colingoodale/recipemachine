@@ -2,7 +2,8 @@
   "name": "mern",
   "version": "1.0.0",
   "engines": {
-    "node": "12.8.1"
+    "node": "12.8.1",
+    "npm": "6.x"
   },
   "main": "server.js",
   "scripts": {
