@@ -1,6 +1,9 @@
 {
   "name": "mern",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.3.0"
+  },
   "main": "server.js",
   "scripts": {
     "start": "per-env NODE_ENV=production && npm run start:prod || npm run start:dev",
